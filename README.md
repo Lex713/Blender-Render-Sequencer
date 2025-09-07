@@ -1,5 +1,5 @@
 # Blender-Render-Sequencer
-Blender addon to render multiple scenes of user's selection i sequence into separate Image Editor slots with proper names
+Blender addon to render multiple scenes of user's selection in sequence into separate Image Editor slots with proper names
 
 # How to use:
 1. Install as normal addon.
